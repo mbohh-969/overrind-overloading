@@ -1,0 +1,28 @@
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.exe
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.deps.json
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.runtimeconfig.json
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.pdb
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.AssemblyInfo.cs
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\refint\GameOverrideDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.pdb
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.genruntimeconfig.cache
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\ref\GameOverrideDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.exe
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.deps.json
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.runtimeconfig.json
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.pdb
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.AssemblyInfo.cs
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\obj\Debug\net10.0\refint\GameOverrideDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.pdb
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.genruntimeconfig.cache
+C:\Users\USER\Documents\Sebelasp Pege\GameOverrideDemo 2\GameOverrideDemo\obj\Debug\net10.0\ref\GameOverrideDemo.dll
